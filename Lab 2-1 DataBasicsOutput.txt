@@ -1,0 +1,14 @@
+What would you like to do? (Enter the number for your selection)
+1. Convert Celsius to Fahrenheit
+2. Convert Fahrenheit to Celsius
+2
+Please enter the Fahrenheit value:
+97
+97 Fahrenheit is 36.1111 Celsius
+
+How many slices of pizza have you eaten?  2
+You need to run about 7.5 miles in order to burn up the calories from the 2 slices of pizza.
+
+C:\CompSci\C++\Software Design\DataBasics\Debug\DataBasics.exe (process 4128) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
